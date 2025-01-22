@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Molise Ntlhoki</h1>
 <h3 align="center">A passionate junior software developer from Lesotho</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=molise-n&label=Profile%20views&color=0e75b6&style=flat" alt="molise-n" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=molise-n" alt="molise-n" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=molise-n&label=Profile%20vi
 
 - 🌱 I’m currently learning **node and express**
 
@@ -18,5 +16,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=molise-n&show_icons=true&locale=en&layout=compact" alt="molise-n" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=molise-n&" alt="molise-n" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Molise-N&" alt="molise-n" /></p>
 
